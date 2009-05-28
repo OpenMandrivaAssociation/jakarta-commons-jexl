@@ -25,10 +25,9 @@ Expression Language of the JSTL.
 
 %package javadoc
 Summary:	Javadoc for %{name}
-Group:		Development/Documentation
-#BuildRequires:	jakarta-commons-logging-javadoc
+Group:		Development/Java
 
-%description    javadoc
+%description javadoc
 %{summary}.
 
 
