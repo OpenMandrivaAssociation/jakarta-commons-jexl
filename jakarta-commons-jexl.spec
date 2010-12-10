@@ -3,7 +3,7 @@
 Summary:        Java Expression Language
 Name:		jakarta-%{oname}
 Version:	1.1
-Release:	%mkrel 1
+Release:	%mkrel 2
 Group:		Development/Java
 License:	Apache Software License
 URL:		http://jakarta.apache.org/commons/jexl/
