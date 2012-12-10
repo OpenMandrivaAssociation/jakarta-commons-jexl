@@ -72,3 +72,15 @@ ln -s %{name}-%{version} %{_javadocdir}/%{name}
 %defattr(-,root,root)
 %doc %{_javadocdir}/%{name}-%{version}
 %ghost %doc %{_javadocdir}/%{name}
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 1.1-2mdv2011.0
++ Revision: 619759
+- the mass rebuild of 2010.0 packages
+
+* Fri May 29 2009 Tomasz Pawel Gajc <tpg@mandriva.org> 1.1-1mdv2010.0
++ Revision: 380684
+- import jakarta-commons-jexl
+
+
