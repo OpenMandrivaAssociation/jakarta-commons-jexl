@@ -6,7 +6,7 @@ Version:	1.1
 Release:	%mkrel 2
 Group:		Development/Java
 License:	Apache Software License
-URL:		http://jakarta.apache.org/commons/jexl/
+URL:		https://jakarta.apache.org/commons/jexl/
 Source0:	http://www.apache.net.pl/commons/jexl/source/%{oname}-%{version}-src.tar.gz
 BuildRequires:	jpackage-utils >= 0:1.5
 BuildRequires:	ant >= 0:1.6
